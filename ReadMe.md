@@ -93,21 +93,23 @@ This folder contains knowledge representation and query functions for a family t
 
 For example:
 
-````metta
+```metta
 (Male Chandler)
 (Female Monica)
 (Parent Chandler John)
+```
 
 ## How to Clone and Use the Repository
 
 To clone this repository and use the code, follow the steps below:
 
 ### 1. Clone the Repository
+
 First, open a terminal or command prompt and run the following command to clone the repository:
 
 ```bash
 git clone https://github.com/eyobderese/OpenCog-Hyperon-Task.git
-````
+```
 
 ### 2. Navigate to the Project Directory
 
